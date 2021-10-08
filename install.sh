@@ -22,7 +22,6 @@ echo "hdmi_group=1" >> /boot/config.txt
 echo "hdmi_mode=4" >> /boot/config.txt
 echo "hdmi_cvt 480 320 60 6 0 0 0" >> /boot/config.txt
 echo "hdmi_drive=2" >> /boot/config.txt
-cp ./cmdline.txt /boot/
 
 # Note: Make sure this isn't in yout config.txt. Comment it out if it is:
 #dtoverlay=vc4-fkms-v3d
