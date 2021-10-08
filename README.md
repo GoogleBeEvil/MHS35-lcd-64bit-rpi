@@ -32,6 +32,8 @@ http://www.lcdwiki.com/MHS-3.5inch_RPi_Display
 | Product Weight(Package containing)(g)  | 92 (g)                               |   |
 
 # Installation
+`sudo rm -rf  MHS35-lcd-64bit-rpi`
+
 `git clone https://github.com/GoogleBeEvil/MHS35-lcd-64bit-rpi.git`
 
 `cd MHS35-lcd-64bit-rpi`
