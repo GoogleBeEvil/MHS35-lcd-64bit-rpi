@@ -1,5 +1,8 @@
 A quick guide on how to install a MHS 3.5 inch LCD on a Raspberry Pi running 64bit OS (namely Raspbian). 
-this LCD may have diffrent names ，waveshare is "3.5inch RPi LCD (C)" ，goodtft is "mh35",some other call it "lcd35",,actually 3.5 inch LCD contains at least 3 types：LCD A /LCD B/LCD C. 
+
+this LCD may have diffrent names ，waveshare is "3.5inch RPi LCD (C)" ，https://www.waveshare.net/wiki/3.5inch_RPi_LCD_(C)
+goodtft is "mh35",some other call it "lcd35",
+actually 3.5 inch LCD contains at least 3 types：LCD A /LCD B/LCD C. 
 below is LCD (C) by waveshare which also called mhs 3.5 by goodftf，and the exactly
 http://www.lcdwiki.com/MHS-3.5inch_RPi_Display  
 
