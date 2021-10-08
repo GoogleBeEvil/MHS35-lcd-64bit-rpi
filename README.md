@@ -36,7 +36,7 @@ http://www.lcdwiki.com/MHS-3.5inch_RPi_Display
 
 `git clone https://github.com/GoogleBeEvil/XPT2046-64bit-rpi.git`
 
-`cd MHS35-lcd-64bit-rpi`
+`cd XPT2046-64bit-rpi`
 
 `chmod +x install.sh`
 
