@@ -1,15 +1,17 @@
 A quick guide on how to install a MHS 3.5 inch LCD on a Raspberry Pi running 64bit OS (namely Raspbian). 
 
-This is cloned and cobbled together from https://github.com/tux1c/wavesharelcd-64bit-rpi (who deserves all the credit) and is tested on a RPi 4 with a fresh install of Raspbian 64 bit beta from here https://www.raspberrypi.org/forums/viewtopic.php?t=275370
+This is cloned and cobbled together from https://github.com/tux1c/wavesharelcd-64bit-rpi (who deserves all the credit) and https://github.com/alexstacey/MHS35-lcd-64bit-rpiis(who fixes the typo errors).
+
+tested on a raspberry 4B 8GB with a fresh install of Raspbian 64 bit lite from here https://downloads.raspberrypi.org/raspios_lite_arm64/images/raspios_lite_arm64-2021-05-28/
 
 this LCD may have diffrent names ，waveshare is "3.5inch RPi LCD (C)" :
 `https://www.waveshare.net/wiki/3.5inch_RPi_LCD_(C)`
 
-goodtft is "mh35",some other call it "lcd35；
+goodtft is "mh35",some other call it "lcd35"；
 
-actually 3.5 inch LCD contains at least 3 types：LCD A /LCD B/LCD C. 
+actually 3.5 inch LCD series contains at least 3 types：LCD A /LCD B/LCD C. https://www.waveshare.net/wiki/3.5inch_RPi_LCD_(C)
 
-Below is LCD (C) by waveshare which also called mhs 3.5 by goodftf，and the exactly description is on
+Below is LCD (C) called by waveshare which also called mhs 3.5 by goodftf，and the exactly description is on
 http://www.lcdwiki.com/MHS-3.5inch_RPi_Display  
 
 | Name                                   | Description                          |
@@ -28,6 +30,7 @@ http://www.lcdwiki.com/MHS-3.5inch_RPi_Display
 | Module PCB Size                        | 85.42*55.60 (mm)                     |
 | Package Size                           | 136x98x41 (mm)                       |
 | Product Weight(Package containing)(g)  | 92 (g)                               |   |
+
 # Installation
 `git clone https://github.com/GoogleBeEvil/MHS35-lcd-64bit-rpi.git`
 
