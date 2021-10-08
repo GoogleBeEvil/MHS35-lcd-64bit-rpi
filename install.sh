@@ -7,8 +7,8 @@ cp -rf ./99-calibration.conf  /etc/X11/xorg.conf.d/99-calibration.conf
 cp -rf ./99-fbdev.conf /etc/X11/xorg.conf.d/99-fbdev.conf
 
 # load module on boot
-cp ./mhs35-overlay.dtb /boot/overlays/
-cp ./mhs35-overlay.dtb /boot/overlays/mhs35.dtbo
+cp ./waveshare35c.dtb /boot/overlays/
+cp ./waveshare35c.dtb /boot/overlays/waveshare35c.dtbo
 echo "hdmi_force_hotplug=1" >> /boot/config.txt
 echo "dtparam=i2c_arm=on" >> /boot/config.txt
 echo "dtparam=spi=on" >> /boot/config.txt
