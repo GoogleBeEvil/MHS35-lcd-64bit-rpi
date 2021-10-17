@@ -40,7 +40,7 @@ http://www.lcdwiki.com/MHS-3.5inch_RPi_Display
 
 `chmod +x install.sh`
 
-`sudo bash install.sh` or `sudo bash installnotouch.sh`
+`sudo bash install.sh` or `sudo bash installlite.sh`
 
 # Troubleshooting
 ## White screen on boot (raspberry pi boots)
