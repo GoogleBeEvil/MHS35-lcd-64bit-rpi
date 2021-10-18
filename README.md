@@ -41,8 +41,10 @@ http://www.lcdwiki.com/MHS-3.5inch_RPi_Display
 `chmod +x install.sh`
 
 `sudo bash install.sh` is for  OS have installed xorg
-or `
-sudo bash installlite.sh` is for OS have not installed xorg，usually raspberry pi OS lite
+
+or 
+
+`sudo bash installlite.sh` is for OS have not installed xorg，usually raspberry pi OS lite
 
 # Troubleshooting
 ## White screen on boot (raspberry pi boots)
