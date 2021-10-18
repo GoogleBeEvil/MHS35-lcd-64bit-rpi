@@ -30,7 +30,7 @@ http://www.lcdwiki.com/MHS-3.5inch_RPi_Display
 | Module PCB Size                        | 85.42*55.60 (mm)                     |
 | Package Size                           | 136x98x41 (mm)                       |
 | Product Weight(Package containing)(g)  | 92 (g)                               |   |
-
+![avatar](https://raw.githubusercontent.com/GoogleBeEvil/XPT2046-64bit-rpi/master/%E6%8D%95%E8%8E%B7.PNG)
 # Installation
 `sudo rm -rf  XPT2046-64bit-rpi`
 
