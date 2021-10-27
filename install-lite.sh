@@ -22,9 +22,6 @@ echo "hdmi_mode=4" >> /boot/config.txt
 echo "hdmi_cvt 480 320 60 6 0 0 0" >> /boot/config.txt
 echo "hdmi_drive=2" >> /boot/config.txt
 
-# Note: Make sure this isn't in yout config.txt. Comment it out if it is:
-#dtoverlay=vc4-fkms-v3d
-
 # touch screen calibration
 # apt-get install xserver-xorg-input-evdev --no-install-recommends -y
 # cp -rf /usr/share/X11/xorg.conf.d/10-evdev.conf /usr/share/X11/xorg.conf.d/45-evdev.conf
