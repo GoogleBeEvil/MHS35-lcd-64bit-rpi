@@ -1,6 +1,6 @@
 A quick guide on how to install a MHS 3.5 inch LCD on a Raspberry Pi running 64bit OS (namely Raspbian). 
 
-This is cloned and cobbled together from https://github.com/tux1c/wavesharelcd-64bit-rpi   (who deserves all the credit) and https://github.com/alexstacey/MHS35-lcd-64bit-rpiis(who fixes the typo errors).
+This is cloned and cobbled together from https://github.com/tux1c/wavesharelcd-64bit-rpi   (who deserves all the credit) and https://github.com/alexstacey/MHS35-lcd-64bit-rpiis  (who fixes the typo errors).
 
 tested on a raspberry 4B 8GB with a fresh install of Raspbian 64 bit lite from here https://downloads.raspberrypi.org/raspios_lite_arm64/images/raspios_lite_arm64-2021-05-28/
 
