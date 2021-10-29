@@ -44,7 +44,7 @@ http://www.lcdwiki.com/MHS-3.5inch_RPi_Display
 
 or 
 
-`sudo bash installlite.sh` is for OS have not installed xorg，usually raspberry pi OS lite
+`sudo bash install-lite.sh` is for OS have not installed xorg，usually raspberry pi OS lite
 
 # Troubleshooting
 ## White screen on boot (raspberry pi boots)
