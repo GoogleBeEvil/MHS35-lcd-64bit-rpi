@@ -16,7 +16,7 @@ echo "enable_uart=1" >> /boot/config.txt
 echo "dtoverlay=waveshare35c:rotate=90" >> /boot/config.txt
 echo "max_framebuffers=2" >> /boot/config.txt
 echo "arm_64bit=1" >> /boot/config.txt
-echo "kernel=kernel8l-alt.img" >> /boot/config.txt
+echo "kernel=kernel8.img" >> /boot/config.txt
 echo "hdmi_group=1" >> /boot/config.txt
 echo "hdmi_mode=4" >> /boot/config.txt
 echo "hdmi_cvt 480 320 60 6 0 0 0" >> /boot/config.txt
