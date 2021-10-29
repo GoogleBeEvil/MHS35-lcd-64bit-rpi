@@ -48,5 +48,5 @@ or
 
 # Troubleshooting
 ## White screen on boot (raspberry pi boots)
-make sure `dtoverlay=vc4-fkms-v3d` is **NOT** present / commented out in `/boot/config.txt`
+make sure `dtoverlay=vc4-fkms-v3d` uncommented or commented out in `/boot/config.txt`,try both!
 
